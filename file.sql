@@ -1,0 +1,1 @@
+elect * frfom tables
